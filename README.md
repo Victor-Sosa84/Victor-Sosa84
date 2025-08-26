@@ -6,5 +6,5 @@
 - 🤔 I’m looking for help with GitHub.
 - 💬 Ask me about program .
 - 📫 How to reach me: Victor.
-- 😄 Pronouns: He xd.
-- ⚡ Fun fact: tengo hambre xd.
+- 😄 Pronouns: He.
+- ⚡ Fun fact: .
