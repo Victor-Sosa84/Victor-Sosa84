@@ -1,10 +1,16 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ED1.
-- 🌱 I’m currently learning Python.
-- 👯 I’m looking to collaborate on Projects.
-- 🤔 I’m looking for help with GitHub.
-- 💬 Ask me about program .
-- 📫 How to reach me: Victor.
-- 😄 Pronouns: He.
-- ⚡ Fun fact: .
+Estudiante Universitario de Ingeniería en Sistemas de la FICCT (Facultad de Ingeniería en Ciencias de la Computación y Telecomunicaciones).
+
+---
+
+### Proyectos
+- [Estructura de datos I:](https://github.com/Victor-Sosa84/Estructura-de-Datos-I) Repo con tareas y proyectos de la materia.
+
+---
+
+### Herramientas
+- Python | Google Colab | C++ | Pascal
+- Git & GitHub
+- VS Code
+
