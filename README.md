@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-Estudiante Universitario de Ingeniería en Sistemas de la FICCT (Facultad de Ingeniería en Ciencias de la Computación y Telecomunicaciones).
+Estudiante Universitario de Ingeniería en Sistemas de la FICCT (Facultad de Ingeniería en Ciencias de la Computación y Telecomunicaciones) de la UAGRM.
 
 ---
 
-### Proyectos
-- [Estructura de datos I:](https://github.com/Victor-Sosa84/Estructura-de-Datos-I) Repo con tareas y proyectos de la materia.
+### Repositorios
+- [Programación I:](https://github.com/Victor-Sosa84/Programacion-I) Códigos con **todo** sobre la materia, incluyendo código del **proyecto final** (Juego de Sokoban).
+- [Estructura de datos I:](https://github.com/Victor-Sosa84/Estructura-de-Datos-I) **Tareas** y **Proyectos** realizados en la materia.
 
 ---
 
-### Herramientas
-- Python | Google Colab | C++ | Pascal
+### Herramientas Utilizadas
+- Python | Google Colab | C++ | Pascal (Delphi)
+- Tkinter | Flask
+- HTML | CSS
 - Git & GitHub
 - VS Code
 
