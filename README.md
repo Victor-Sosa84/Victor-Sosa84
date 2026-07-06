@@ -16,7 +16,7 @@ En esta cuenta subo todo lo que voy haciendo en la universidad: tareas, ejercici
 ### 🤝 Colaboraciones
 
 - [**Gabrielcx707/metodo-de-Montecarlo**](https://github.com/Gabrielcx707/metodo-de-Montecarlo) — Método de Montecarlo para aproximar integrales (1D y 2D), en Python con estructura MVC.
-- [**taller-automotriz-si1**](https://github.com/Victor-Sosa84/taller-automotriz-si1) — Sistema de gestión para taller automotriz: clientes, vehículos, diagnósticos, proformas/cotizaciones y órdenes de trabajo (Laravel + MySQL). En desarrollo — SI1.
+- [**taller-automotriz-si1**](https://github.com/Victor-Sosa84/taller-automotriz-si1) — Sistema de gestión para taller automotriz: clientes, vehículos, diagnósticos, proformas/cotizaciones y órdenes de trabajo (Laravel + MySQL).
 - [**pithersec/Sistema-Web-CUP**](https://github.com/pithersec/Sistema-Web-CUP) — Sistema web de gestión de admisión preuniversitaria para la FICCT (Laravel + PostgreSQL).
 
 ### 🛠️ Herramientas
