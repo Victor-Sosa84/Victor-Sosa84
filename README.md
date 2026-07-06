@@ -21,8 +21,8 @@ En esta cuenta subo todo lo que voy haciendo en la universidad: tareas, ejercici
 
 ### 🛠️ Herramientas
 
-**Lenguajes:** Python · C++ · Object Pascal (Delphi) · PHP
-**Frameworks / librerías:** Laravel · Flask · Tkinter
-**Web:** HTML · CSS · JavaScript
-**Bases de datos:** PostgreSQL · MySQL
-**Otros:** Git & GitHub · VS Code · Google Colab · Railway
+- **Lenguajes:** Python · C++ · Object Pascal (Delphi) · PHP
+- **Frameworks / librerías:** Laravel · Flask · Tkinter · Stripe · dompdf · Maatwebsite Excel
+- **Web:** HTML · CSS · JavaScript
+- **Bases de datos:** PostgreSQL · MySQL
+- **Otros:** Git & GitHub · VS Code · Google Colab · Railway
